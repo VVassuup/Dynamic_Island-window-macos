@@ -201,7 +201,8 @@ macOS сама спросит их при первом запуске — про
 <div align="center">
 
 Сделано с ❤️ — **created by @vvassuup**
-          **t.me/vvassuup**
+
+**[t.me/vvassuup](https://t.me/vvassuup)**
 
 Если приложение понравилось — поставьте ⭐ репозиторию
 
