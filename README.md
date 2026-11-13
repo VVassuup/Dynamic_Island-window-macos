@@ -8,7 +8,8 @@
 
 Музыка, текст песни, уведомления и живые события — в аккуратной капсуле над всеми окнами.
 
-<img src="assets/trailer-small.gif" alt="Демо Dynamic Island" width="100%">
+<img src="[assets/trailer-small.gif](https://github.com/VVassuup/Dynamic_Island-window-macos
+/blob/main/assets/demos.gif)" alt="Демо Dynamic Island" width="100%">
 
 ### [⬇️ Скачать последнюю версию](../../releases/latest)
 
