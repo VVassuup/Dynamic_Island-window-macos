@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34789247/README.md)
+<img width="640" height="360" alt="demo" src="https://github.com/user-attachments/assets/1699751a-2d07-4bd8-86a1-45a5603ad9d5" />[README.md](https://github.com/user-attachments/files/34789247/README.md)
 <div align="center">
 
 <img src="assets/banner.jpg" alt="Dynamic Island" width="100%">
@@ -14,6 +14,7 @@
 [![Version](https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-4.4.0-8A2BE2?style=for-the-badge)](../../releases/latest)
 
 ### [⬇️ Скачать последнюю версию](../../releases/latest)
+![Uploading demo.gif…]()
 
 <img src="assets/demos.gif" alt="Демонстрация" width="720">
 
