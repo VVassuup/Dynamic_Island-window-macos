@@ -205,5 +205,7 @@ macOS сама спросит их при первом запуске — про
 **[t.me/vvassuup](https://t.me/vvassuup)**
 
 Если приложение понравилось — поставьте ⭐ репозиторию
+## 🙏 Благодарности
 
+- [**mediaremote-adapter**](https://github.com/ungive/mediaremote-adapter) — способ получать данные о текущей музыке через системный MediaRemote на macOS 15.4 и новее. Используется в соответствии с лицензией проекта (см. [LICENSE](https://github.com/ungive/mediaremote-adapter/blob/master/LICENSE)).
 </div>
