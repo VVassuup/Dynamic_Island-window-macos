@@ -1,3 +1,10 @@
+
+
+
+
+<img width="640" height="360" alt="demo" src="https://github.com/user-attachments/assets/cb689e15-85aa-4df7-9f1a-29a4322a99b6" />
+
+
 <div align="center">
 
 <img src="assets/banner.jpg" alt="Dynamic Island" width="100%">
@@ -8,14 +15,15 @@
 
 Музыка, текст песни, уведомления и живые события — в аккуратной капсуле над всеми окнами.
 
-<img src="[assets/trailer-small.gif](https://github.com/VVassuup/Dynamic_Island-window-macos
-/blob/main/assets/demos.gif)" alt="Демо Dynamic Island" width="100%">
+
 
 ### [⬇️ Скачать последнюю версию](../../releases/latest)
 
 </div>
 
----
+https://github.com/user-attachments/assets/221f54a6-d53f-4f01-b671-4ee32bdb02e4
+
+<img src="assets/demos.gif" alt="Демо Dynamic Island" width="100%">
 
 ## ✨ Возможности
 
