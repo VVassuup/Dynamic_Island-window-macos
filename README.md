@@ -15,7 +15,7 @@
 
 ### [⬇️ Скачать последнюю версию](../../releases/latest)
 
-<img src="assets/demo.gif" alt="Демонстрация" width="720">
+<img src="assets/demos.gif" alt="Демонстрация" width="720">
 
 </div>
 
