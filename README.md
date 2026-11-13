@@ -21,7 +21,8 @@
 
 </div>
 
-https://github.com/user-attachments/assets/221f54a6-d53f-4f01-b671-4ee32bdb02e4
+<img alt="trailer-small" src="https://github.com/user-attachments/assets/a2fc79a2-2ddf-42c8-b225-5e3291f55bf7" alt="Демо Dynamic Island" width="100%" />
+
 
 <img src="assets/demos.gif" alt="Демо Dynamic Island" width="100%">
 
