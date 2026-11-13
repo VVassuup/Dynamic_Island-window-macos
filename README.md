@@ -1,4 +1,4 @@
-<img width="640" height="360" alt="demo" src="https://github.com/user-attachments/assets/1699751a-2d07-4bd8-86a1-45a5603ad9d5" />[README.md](https://github.com/user-attachments/files/34789247/README.md)
+
 <div align="center">
 
 <img src="assets/banner.jpg" alt="Dynamic Island" width="100%">
@@ -16,11 +16,10 @@
 ### [⬇️ Скачать последнюю версию](../../releases/latest)
 
 
-  <img src="assets/trailer-small.gif" alt="Демонстрация" width="720">
 
 </div>
 
-<!-- ВИДЕО: замените эту строку ссылкой, которую GitHub даст после перетаскивания mp4 в редактор -->
+<img width="480" height="270" alt="trailer-small" src="https://github.com/user-attachments/assets/2c30e1a5-0e46-436b-b7ec-78c93ef2ad80" />
 
 ---
 
