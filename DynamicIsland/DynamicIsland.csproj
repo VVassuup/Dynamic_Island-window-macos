@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows10.0.19041.0</TargetFramework>
+    <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>DynamicIsland</AssemblyName>
+    <RootNamespace>DynamicIsland</RootNamespace>
+    <Version>4.4.0</Version>
+    <ApplicationIcon>Assets\app.ico</ApplicationIcon>
+    <Company>@vvassuup</Company>
+    <Authors>@vvassuup</Authors>
+    <Product>Dynamic Island</Product>
+    <Copyright>© 2026 @vvassuup · created by @vvassuup</Copyright>
+    <Description>Dynamic Island for Windows — created by @vvassuup</Description>
+    <Product>Dynamic Island for Windows</Product>
+
+    <!-- экономия оперативной памяти -->
+    <ServerGarbageCollection>false</ServerGarbageCollection>
+    <ConcurrentGarbageCollection>false</ConcurrentGarbageCollection>
+    <TieredPGO>false</TieredPGO>
+    <SatelliteResourceLanguages>ru;en</SatelliteResourceLanguages>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- сборщик мусора держит кучу компактной и не припасает память про запас -->
+    <RuntimeHostConfigurationOption Include="System.GC.Conserve" Value="9" />
+    <RuntimeHostConfigurationOption Include="System.GC.RetainVM" Value="false" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\app.ico" />
+    <Resource Include="Assets\app-64.png" />
+    <Resource Include="Assets\tray-light.ico" />
+    <Resource Include="Assets\tray-dark.ico" />
+    <Resource Include="Assets\Fonts\*.otf;Assets\Fonts\*.ttf" />
+    <None Remove="installer\**" />
+    <None Remove="publish\**;dist\**" />
+    <Compile Remove="publish\**;dist\**" />
+  </ItemGroup>
+
+</Project>

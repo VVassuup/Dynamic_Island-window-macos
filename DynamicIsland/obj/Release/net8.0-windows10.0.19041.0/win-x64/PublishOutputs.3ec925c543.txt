@@ -1,0 +1,2 @@
+C:\Users\ПК\Downloads\DynamicIsland_Windows_v4.4.1\DynamicIsland\publish\DynamicIsland.pdb
+C:\Users\ПК\Downloads\DynamicIsland_Windows_v4.4.1\DynamicIsland\publish\DynamicIsland.exe

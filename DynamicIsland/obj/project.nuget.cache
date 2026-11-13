@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPIh1A9+IvQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ПК\\Downloads\\DynamicIsland_Windows_v4.4.1\\DynamicIsland\\DynamicIsland.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ПК\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.34\\microsoft.net.illink.tasks.8.0.34.nupkg.sha512",
+    "C:\\Users\\ПК\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.56\\microsoft.windows.sdk.net.ref.10.0.19041.56.nupkg.sha512"
+  ],
+  "logs": []
+}
