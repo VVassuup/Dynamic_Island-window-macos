@@ -14,9 +14,9 @@
 [![Version](https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-4.4.0-8A2BE2?style=for-the-badge)](../../releases/latest)
 
 ### [⬇️ Скачать последнюю версию](../../releases/latest)
-![Uploading demo.gif…]()
 
-<img src="assets/demos.gif" alt="Демонстрация" width="720">
+
+<img src="assets/trailer-small.gif" alt="Демонстрация" width="720">
 
 </div>
 
