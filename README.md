@@ -1,25 +1,18 @@
-
 <div align="center">
 
 <img src="assets/banner.jpg" alt="Dynamic Island" width="100%">
 
 # Dynamic Island
 
-**Тот самый «остров» с iPhone — теперь на Mac и Windows.**
+<b>Тот самый «остров» с iPhone — теперь на Mac и Windows.</b>
 
 Музыка, текст песни, уведомления и живые события — в аккуратной капсуле над всеми окнами.
 
-[![macOS](https://img.shields.io/badge/macOS-13%2B-000000?style=for-the-badge&logo=apple&logoColor=white)](../../releases/latest)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)](../../releases/latest)
-[![Version](https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-4.4.0-8A2BE2?style=for-the-badge)](../../releases/latest)
+<img src="assets/demos.gif" alt="Демо Dynamic Island" width="100%">
 
 ### [⬇️ Скачать последнюю версию](../../releases/latest)
 
-
-
 </div>
-
-<img width="480" height="270" alt="trailer-small" src="https://github.com/user-attachments/assets/2c30e1a5-0e46-436b-b7ec-78c93ef2ad80" />
 
 ---
 
@@ -107,7 +100,7 @@
 
 ## 📥 Установка
 
-Откройте страницу **[Releases](../../releases/latest)** и скачайте файл для своей системы:
+Откройте страницу [**Releases**](../../releases/latest) и скачайте файл для своей системы:
 
 | Система | Файл | Требования |
 |---|---|---|
@@ -118,18 +111,20 @@
 
 1. Откройте `DynamicIsland-4.4.0-macOS.dmg`.
 2. Перетащите **Dynamic Island** в папку **Программы**.
-3.<summary><b>macOS пишет «приложение повреждено» или не даёт открыть</b></summary>
-Приложение не заверено Apple (это платно), поэтому macOS осторожничает.
+3. Запустите приложение из **Программ** — остров появится вверху экрана.
 
-- Откройте **Терминал** и выполните:
+<details>
+<summary><b>macOS пишет «приложение повреждено» или не даёт открыть</b></summary>
 
-  ```bash
-  xattr -cr "/Applications/Dynamic Island.app"
-  ```
-  5.Зайдите в **Программы** и запустите приложение Остров появится вверху экрана.
+<br>
 
-</details>
+Приложение не заверено Apple (это платно), поэтому macOS осторожничает. Откройте **Терминал** и выполните:
 
+```bash
+xattr -cr "/Applications/Dynamic Island.app"
+```
+
+После этого снова запустите приложение из **Программ**.
 
 </details>
 
@@ -175,18 +170,22 @@
 
 <br>
 
-Создайте задачу во вкладке **[Issues](../../issues)** — опишите, что произошло, и приложите скриншот.
+Создайте задачу во вкладке [**Issues**](../../issues) — опишите, что произошло, и приложите скриншот.
 
 </details>
 
 ---
 
-<div align="center">
-
-Сделано с ❤️ — **created by @vvassuup**
-
-Если приложение понравилось — поставьте ⭐ репозиторию
 ## 🙏 Благодарности
 
 - [**mediaremote-adapter**](https://github.com/ungive/mediaremote-adapter) — способ получать данные о текущей музыке через системный MediaRemote на macOS 15.4 и новее. Используется в соответствии с лицензией проекта (см. [LICENSE](https://github.com/ungive/mediaremote-adapter/blob/master/LICENSE)).
+
+---
+
+<div align="center">
+
+Сделано с ❤️ — <b>created by @vvassuup</b>
+
+Если приложение понравилось — поставьте ⭐ репозиторию
+
 </div>
