@@ -1,10 +1,6 @@
 
 
 
-
-<img width="640" height="360" alt="demo" src="https://github.com/user-attachments/assets/cb689e15-85aa-4df7-9f1a-29a4322a99b6" />
-
-
 <div align="center">
 
 <img src="assets/banner.jpg" alt="Dynamic Island" width="100%">
