@@ -1,0 +1,21 @@
+# macOS / Swift
+.DS_Store
+.build/
+.swiftpm/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.app
+
+# Windows / .NET
+bin/
+obj/
+.vs/
+*.user
+Output/
+
+# Готовые сборки — только в Releases
+*.dmg
+*.exe
+*.zip
+*.msi
